@@ -1,0 +1,1 @@
+# linux-Syslog-bilgilerinin-ba-l-liste-ile-g-sterilmesi
